@@ -1,0 +1,25 @@
+# Constraint Optimization Agent — Dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Core Optimization ──────────────────────
+pulp==2.9.0               # ILP solver (COIN-BC included)
+scipy==1.13.0             # Fallback LP / nonlinear optimization
+numpy==1.26.4             # Numerical arrays
+
+# ── API & HTTP ─────────────────────────────
+requests==2.32.3          # REST API calls
+python-dotenv==1.0.1      # Load API keys from .env
+
+# ── Data Handling ──────────────────────────
+pandas==2.2.2             # Optional: for batch field data
+
+# ── Logging & Dev ──────────────────────────
+rich==13.7.1              # Pretty terminal output (optional)
+
+# ── Optional: LLM integration ──────────────
+# anthropic==0.26.0       # If connecting to Claude for plan explanation
+# openai==1.30.0          # Alternative LLM
+
+# ── Optional: FastAPI wrapper ──────────────
+# fastapi==0.111.0        # Expose agent as microservice
+# uvicorn==0.30.0
