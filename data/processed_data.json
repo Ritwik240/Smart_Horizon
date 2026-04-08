@@ -1,0 +1,5154 @@
+[
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 39.2,
+            "soil_temperature": 25.5,
+            "soil_nutrients": {
+                "N": 0.45,
+                "P": 0.29,
+                "K": 0.2
+            }
+        },
+        "weather_data": {
+            "temperature": 36.3,
+            "humidity": 74.2,
+            "rain_forecast": 7.0
+        },
+        "image_data": {
+            "ndvi_index": 0.77,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2471.3,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 20.1,
+            "soil_temperature": 39.2,
+            "soil_nutrients": {
+                "N": 0.22,
+                "P": 0.06,
+                "K": 0.19
+            }
+        },
+        "weather_data": {
+            "temperature": 36.3,
+            "humidity": 74.2,
+            "rain_forecast": 7.0
+        },
+        "image_data": {
+            "ndvi_index": 0.77,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2471.3,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 36.3,
+            "soil_temperature": 30.6,
+            "soil_nutrients": {
+                "N": 0.2,
+                "P": 0.14,
+                "K": 0.27
+            }
+        },
+        "weather_data": {
+            "temperature": 21.9,
+            "humidity": 62.2,
+            "rain_forecast": 14.4
+        },
+        "image_data": {
+            "ndvi_index": 0.71,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2366.52,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 18.0,
+            "soil_temperature": 29.1,
+            "soil_nutrients": {
+                "N": 0.27,
+                "P": 0.14,
+                "K": 0.3
+            }
+        },
+        "weather_data": {
+            "temperature": 21.9,
+            "humidity": 62.2,
+            "rain_forecast": 14.4
+        },
+        "image_data": {
+            "ndvi_index": 0.71,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2366.52,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 18.2,
+            "soil_temperature": 23.2,
+            "soil_nutrients": {
+                "N": 0.41,
+                "P": 0.28,
+                "K": 0.22
+            }
+        },
+        "weather_data": {
+            "temperature": 39.0,
+            "humidity": 86.5,
+            "rain_forecast": 7.1
+        },
+        "image_data": {
+            "ndvi_index": 0.5,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2197.22,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 27.8,
+            "soil_temperature": 29.0,
+            "soil_nutrients": {
+                "N": 0.23,
+                "P": 0.12,
+                "K": 0.24
+            }
+        },
+        "weather_data": {
+            "temperature": 39.0,
+            "humidity": 86.5,
+            "rain_forecast": 7.1
+        },
+        "image_data": {
+            "ndvi_index": 0.5,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2197.22,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 28.5,
+            "soil_temperature": 27.3,
+            "soil_nutrients": {
+                "N": 0.2,
+                "P": 0.19,
+                "K": 0.32
+            }
+        },
+        "weather_data": {
+            "temperature": 21.3,
+            "humidity": 81.3,
+            "rain_forecast": 2.0
+        },
+        "image_data": {
+            "ndvi_index": 0.6,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2789.8,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 23.7,
+            "soil_temperature": 38.7,
+            "soil_nutrients": {
+                "N": 0.43,
+                "P": 0.18,
+                "K": 0.16
+            }
+        },
+        "weather_data": {
+            "temperature": 21.3,
+            "humidity": 81.3,
+            "rain_forecast": 2.0
+        },
+        "image_data": {
+            "ndvi_index": 0.6,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2789.8,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 36.7,
+            "soil_temperature": 20.6,
+            "soil_nutrients": {
+                "N": 0.38,
+                "P": 0.24,
+                "K": 0.22
+            }
+        },
+        "weather_data": {
+            "temperature": 20.5,
+            "humidity": 70.1,
+            "rain_forecast": 3.7
+        },
+        "image_data": {
+            "ndvi_index": 0.43,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6743.79,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 15.1,
+            "soil_temperature": 25.0,
+            "soil_nutrients": {
+                "N": 0.13,
+                "P": 0.11,
+                "K": 0.14
+            }
+        },
+        "weather_data": {
+            "temperature": 20.5,
+            "humidity": 70.1,
+            "rain_forecast": 3.7
+        },
+        "image_data": {
+            "ndvi_index": 0.43,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6743.79,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 13.0,
+            "soil_temperature": 37.0,
+            "soil_nutrients": {
+                "N": 0.29,
+                "P": 0.13,
+                "K": 0.11
+            }
+        },
+        "weather_data": {
+            "temperature": 23.5,
+            "humidity": 49.9,
+            "rain_forecast": 19.3
+        },
+        "image_data": {
+            "ndvi_index": 0.71,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 7467.46,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 36.1,
+            "soil_temperature": 21.2,
+            "soil_nutrients": {
+                "N": 0.2,
+                "P": 0.2,
+                "K": 0.13
+            }
+        },
+        "weather_data": {
+            "temperature": 23.5,
+            "humidity": 49.9,
+            "rain_forecast": 19.3
+        },
+        "image_data": {
+            "ndvi_index": 0.71,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 7467.46,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 35.4,
+            "soil_temperature": 21.8,
+            "soil_nutrients": {
+                "N": 0.17,
+                "P": 0.21,
+                "K": 0.13
+            }
+        },
+        "weather_data": {
+            "temperature": 33.5,
+            "humidity": 49.5,
+            "rain_forecast": 10.1
+        },
+        "image_data": {
+            "ndvi_index": 0.93,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 350.61,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 27.4,
+            "soil_temperature": 38.4,
+            "soil_nutrients": {
+                "N": 0.35,
+                "P": 0.19,
+                "K": 0.4
+            }
+        },
+        "weather_data": {
+            "temperature": 33.5,
+            "humidity": 49.5,
+            "rain_forecast": 10.1
+        },
+        "image_data": {
+            "ndvi_index": 0.93,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 350.61,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 33.4,
+            "soil_temperature": 25.8,
+            "soil_nutrients": {
+                "N": 0.27,
+                "P": 0.18,
+                "K": 0.11
+            }
+        },
+        "weather_data": {
+            "temperature": 29.2,
+            "humidity": 81.7,
+            "rain_forecast": 4.8
+        },
+        "image_data": {
+            "ndvi_index": 0.73,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 314.4,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 29.6,
+            "soil_temperature": 28.6,
+            "soil_nutrients": {
+                "N": 0.3,
+                "P": 0.11,
+                "K": 0.23
+            }
+        },
+        "weather_data": {
+            "temperature": 29.2,
+            "humidity": 81.7,
+            "rain_forecast": 4.8
+        },
+        "image_data": {
+            "ndvi_index": 0.73,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 314.4,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 16.7,
+            "soil_temperature": 28.6,
+            "soil_nutrients": {
+                "N": 0.26,
+                "P": 0.07,
+                "K": 0.15
+            }
+        },
+        "weather_data": {
+            "temperature": 31.2,
+            "humidity": 43.8,
+            "rain_forecast": 5.0
+        },
+        "image_data": {
+            "ndvi_index": 0.87,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2434.41,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 20.9,
+            "soil_temperature": 35.5,
+            "soil_nutrients": {
+                "N": 0.39,
+                "P": 0.1,
+                "K": 0.27
+            }
+        },
+        "weather_data": {
+            "temperature": 31.2,
+            "humidity": 43.8,
+            "rain_forecast": 5.0
+        },
+        "image_data": {
+            "ndvi_index": 0.87,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2434.41,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 27.2,
+            "soil_temperature": 28.7,
+            "soil_nutrients": {
+                "N": 0.43,
+                "P": 0.21,
+                "K": 0.1
+            }
+        },
+        "weather_data": {
+            "temperature": 26.5,
+            "humidity": 75.6,
+            "rain_forecast": 8.9
+        },
+        "image_data": {
+            "ndvi_index": 0.75,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2202.88,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 13.0,
+            "soil_temperature": 29.3,
+            "soil_nutrients": {
+                "N": 0.21,
+                "P": 0.24,
+                "K": 0.35
+            }
+        },
+        "weather_data": {
+            "temperature": 26.5,
+            "humidity": 75.6,
+            "rain_forecast": 8.9
+        },
+        "image_data": {
+            "ndvi_index": 0.75,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2202.88,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 31.5,
+            "soil_temperature": 24.0,
+            "soil_nutrients": {
+                "N": 0.36,
+                "P": 0.27,
+                "K": 0.25
+            }
+        },
+        "weather_data": {
+            "temperature": 36.4,
+            "humidity": 55.1,
+            "rain_forecast": 7.5
+        },
+        "image_data": {
+            "ndvi_index": 0.76,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2161.91,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 21.3,
+            "soil_temperature": 37.3,
+            "soil_nutrients": {
+                "N": 0.44,
+                "P": 0.19,
+                "K": 0.11
+            }
+        },
+        "weather_data": {
+            "temperature": 36.4,
+            "humidity": 55.1,
+            "rain_forecast": 7.5
+        },
+        "image_data": {
+            "ndvi_index": 0.76,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2161.91,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 11.9,
+            "soil_temperature": 25.2,
+            "soil_nutrients": {
+                "N": 0.41,
+                "P": 0.28,
+                "K": 0.24
+            }
+        },
+        "weather_data": {
+            "temperature": 29.6,
+            "humidity": 77.3,
+            "rain_forecast": 18.3
+        },
+        "image_data": {
+            "ndvi_index": 0.61,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2283.26,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 18.4,
+            "soil_temperature": 25.9,
+            "soil_nutrients": {
+                "N": 0.15,
+                "P": 0.29,
+                "K": 0.28
+            }
+        },
+        "weather_data": {
+            "temperature": 29.6,
+            "humidity": 77.3,
+            "rain_forecast": 18.3
+        },
+        "image_data": {
+            "ndvi_index": 0.61,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2283.26,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 12.1,
+            "soil_temperature": 23.4,
+            "soil_nutrients": {
+                "N": 0.3,
+                "P": 0.28,
+                "K": 0.15
+            }
+        },
+        "weather_data": {
+            "temperature": 39.8,
+            "humidity": 62.6,
+            "rain_forecast": 17.4
+        },
+        "image_data": {
+            "ndvi_index": 0.75,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 7251.63,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 19.4,
+            "soil_temperature": 37.8,
+            "soil_nutrients": {
+                "N": 0.24,
+                "P": 0.11,
+                "K": 0.18
+            }
+        },
+        "weather_data": {
+            "temperature": 39.8,
+            "humidity": 62.6,
+            "rain_forecast": 17.4
+        },
+        "image_data": {
+            "ndvi_index": 0.75,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 7251.63,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 15.0,
+            "soil_temperature": 39.4,
+            "soil_nutrients": {
+                "N": 0.47,
+                "P": 0.12,
+                "K": 0.19
+            }
+        },
+        "weather_data": {
+            "temperature": 32.4,
+            "humidity": 59.4,
+            "rain_forecast": 15.7
+        },
+        "image_data": {
+            "ndvi_index": 0.54,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 7548.12,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 31.6,
+            "soil_temperature": 38.9,
+            "soil_nutrients": {
+                "N": 0.27,
+                "P": 0.06,
+                "K": 0.24
+            }
+        },
+        "weather_data": {
+            "temperature": 32.4,
+            "humidity": 59.4,
+            "rain_forecast": 15.7
+        },
+        "image_data": {
+            "ndvi_index": 0.54,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 7548.12,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 11.8,
+            "soil_temperature": 23.5,
+            "soil_nutrients": {
+                "N": 0.13,
+                "P": 0.12,
+                "K": 0.28
+            }
+        },
+        "weather_data": {
+            "temperature": 22.5,
+            "humidity": 75.4,
+            "rain_forecast": 10.0
+        },
+        "image_data": {
+            "ndvi_index": 0.88,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 391.46,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 14.6,
+            "soil_temperature": 38.6,
+            "soil_nutrients": {
+                "N": 0.43,
+                "P": 0.29,
+                "K": 0.3
+            }
+        },
+        "weather_data": {
+            "temperature": 22.5,
+            "humidity": 75.4,
+            "rain_forecast": 10.0
+        },
+        "image_data": {
+            "ndvi_index": 0.88,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 391.46,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 36.5,
+            "soil_temperature": 24.3,
+            "soil_nutrients": {
+                "N": 0.31,
+                "P": 0.14,
+                "K": 0.34
+            }
+        },
+        "weather_data": {
+            "temperature": 26.5,
+            "humidity": 85.5,
+            "rain_forecast": 18.5
+        },
+        "image_data": {
+            "ndvi_index": 0.82,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 359.98,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 20.4,
+            "soil_temperature": 20.9,
+            "soil_nutrients": {
+                "N": 0.27,
+                "P": 0.2,
+                "K": 0.19
+            }
+        },
+        "weather_data": {
+            "temperature": 26.5,
+            "humidity": 85.5,
+            "rain_forecast": 18.5
+        },
+        "image_data": {
+            "ndvi_index": 0.82,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 359.98,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 14.5,
+            "soil_temperature": 24.1,
+            "soil_nutrients": {
+                "N": 0.49,
+                "P": 0.21,
+                "K": 0.23
+            }
+        },
+        "weather_data": {
+            "temperature": 28.6,
+            "humidity": 47.4,
+            "rain_forecast": 10.4
+        },
+        "image_data": {
+            "ndvi_index": 0.73,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2290.95,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 23.9,
+            "soil_temperature": 22.8,
+            "soil_nutrients": {
+                "N": 0.46,
+                "P": 0.1,
+                "K": 0.17
+            }
+        },
+        "weather_data": {
+            "temperature": 28.6,
+            "humidity": 47.4,
+            "rain_forecast": 10.4
+        },
+        "image_data": {
+            "ndvi_index": 0.73,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2290.95,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 14.1,
+            "soil_temperature": 27.2,
+            "soil_nutrients": {
+                "N": 0.34,
+                "P": 0.24,
+                "K": 0.16
+            }
+        },
+        "weather_data": {
+            "temperature": 33.0,
+            "humidity": 80.0,
+            "rain_forecast": 6.6
+        },
+        "image_data": {
+            "ndvi_index": 0.74,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 1968.11,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 21.3,
+            "soil_temperature": 38.0,
+            "soil_nutrients": {
+                "N": 0.15,
+                "P": 0.17,
+                "K": 0.37
+            }
+        },
+        "weather_data": {
+            "temperature": 33.0,
+            "humidity": 80.0,
+            "rain_forecast": 6.6
+        },
+        "image_data": {
+            "ndvi_index": 0.74,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 1968.11,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 11.9,
+            "soil_temperature": 38.5,
+            "soil_nutrients": {
+                "N": 0.16,
+                "P": 0.14,
+                "K": 0.26
+            }
+        },
+        "weather_data": {
+            "temperature": 22.7,
+            "humidity": 84.6,
+            "rain_forecast": 3.9
+        },
+        "image_data": {
+            "ndvi_index": 0.65,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2038.05,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 12.7,
+            "soil_temperature": 25.6,
+            "soil_nutrients": {
+                "N": 0.31,
+                "P": 0.19,
+                "K": 0.15
+            }
+        },
+        "weather_data": {
+            "temperature": 22.7,
+            "humidity": 84.6,
+            "rain_forecast": 3.9
+        },
+        "image_data": {
+            "ndvi_index": 0.65,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2038.05,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 27.8,
+            "soil_temperature": 25.7,
+            "soil_nutrients": {
+                "N": 0.33,
+                "P": 0.14,
+                "K": 0.13
+            }
+        },
+        "weather_data": {
+            "temperature": 33.2,
+            "humidity": 47.5,
+            "rain_forecast": 10.2
+        },
+        "image_data": {
+            "ndvi_index": 0.75,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2096.1,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 39.4,
+            "soil_temperature": 39.5,
+            "soil_nutrients": {
+                "N": 0.39,
+                "P": 0.09,
+                "K": 0.33
+            }
+        },
+        "weather_data": {
+            "temperature": 33.2,
+            "humidity": 47.5,
+            "rain_forecast": 10.2
+        },
+        "image_data": {
+            "ndvi_index": 0.75,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2096.1,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 10.4,
+            "soil_temperature": 21.9,
+            "soil_nutrients": {
+                "N": 0.39,
+                "P": 0.17,
+                "K": 0.25
+            }
+        },
+        "weather_data": {
+            "temperature": 29.8,
+            "humidity": 64.5,
+            "rain_forecast": 0.0
+        },
+        "image_data": {
+            "ndvi_index": 0.53,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 5842.19,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 11.3,
+            "soil_temperature": 21.3,
+            "soil_nutrients": {
+                "N": 0.1,
+                "P": 0.1,
+                "K": 0.28
+            }
+        },
+        "weather_data": {
+            "temperature": 29.8,
+            "humidity": 64.5,
+            "rain_forecast": 0.0
+        },
+        "image_data": {
+            "ndvi_index": 0.53,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 5842.19,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 29.3,
+            "soil_temperature": 35.9,
+            "soil_nutrients": {
+                "N": 0.43,
+                "P": 0.29,
+                "K": 0.2
+            }
+        },
+        "weather_data": {
+            "temperature": 24.0,
+            "humidity": 78.6,
+            "rain_forecast": 17.8
+        },
+        "image_data": {
+            "ndvi_index": 0.52,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 5944.74,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 35.8,
+            "soil_temperature": 35.1,
+            "soil_nutrients": {
+                "N": 0.38,
+                "P": 0.07,
+                "K": 0.31
+            }
+        },
+        "weather_data": {
+            "temperature": 24.0,
+            "humidity": 78.6,
+            "rain_forecast": 17.8
+        },
+        "image_data": {
+            "ndvi_index": 0.52,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 5944.74,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 37.0,
+            "soil_temperature": 30.8,
+            "soil_nutrients": {
+                "N": 0.39,
+                "P": 0.1,
+                "K": 0.34
+            }
+        },
+        "weather_data": {
+            "temperature": 30.6,
+            "humidity": 70.9,
+            "rain_forecast": 9.1
+        },
+        "image_data": {
+            "ndvi_index": 0.74,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 379.43,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 17.1,
+            "soil_temperature": 34.2,
+            "soil_nutrients": {
+                "N": 0.35,
+                "P": 0.27,
+                "K": 0.18
+            }
+        },
+        "weather_data": {
+            "temperature": 30.6,
+            "humidity": 70.9,
+            "rain_forecast": 9.1
+        },
+        "image_data": {
+            "ndvi_index": 0.74,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 379.43,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 34.1,
+            "soil_temperature": 21.0,
+            "soil_nutrients": {
+                "N": 0.35,
+                "P": 0.08,
+                "K": 0.14
+            }
+        },
+        "weather_data": {
+            "temperature": 39.2,
+            "humidity": 71.0,
+            "rain_forecast": 11.4
+        },
+        "image_data": {
+            "ndvi_index": 0.91,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 358.15,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-07T23:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 31.2,
+            "soil_temperature": 27.5,
+            "soil_nutrients": {
+                "N": 0.42,
+                "P": 0.13,
+                "K": 0.17
+            }
+        },
+        "weather_data": {
+            "temperature": 39.2,
+            "humidity": 71.0,
+            "rain_forecast": 11.4
+        },
+        "image_data": {
+            "ndvi_index": 0.91,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 358.15,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 25.9,
+            "soil_temperature": 27.0,
+            "soil_nutrients": {
+                "N": 0.34,
+                "P": 0.19,
+                "K": 0.34
+            }
+        },
+        "weather_data": {
+            "temperature": 37.9,
+            "humidity": 53.2,
+            "rain_forecast": 11.0
+        },
+        "image_data": {
+            "ndvi_index": 0.85,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2090.89,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 16.9,
+            "soil_temperature": 27.6,
+            "soil_nutrients": {
+                "N": 0.41,
+                "P": 0.25,
+                "K": 0.27
+            }
+        },
+        "weather_data": {
+            "temperature": 37.9,
+            "humidity": 53.2,
+            "rain_forecast": 11.0
+        },
+        "image_data": {
+            "ndvi_index": 0.85,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2090.89,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 19.0,
+            "soil_temperature": 30.2,
+            "soil_nutrients": {
+                "N": 0.25,
+                "P": 0.11,
+                "K": 0.33
+            }
+        },
+        "weather_data": {
+            "temperature": 22.1,
+            "humidity": 77.9,
+            "rain_forecast": 5.5
+        },
+        "image_data": {
+            "ndvi_index": 0.71,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 1966.22,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 13.0,
+            "soil_temperature": 22.7,
+            "soil_nutrients": {
+                "N": 0.26,
+                "P": 0.16,
+                "K": 0.37
+            }
+        },
+        "weather_data": {
+            "temperature": 22.1,
+            "humidity": 77.9,
+            "rain_forecast": 5.5
+        },
+        "image_data": {
+            "ndvi_index": 0.71,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 1966.22,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 18.2,
+            "soil_temperature": 38.7,
+            "soil_nutrients": {
+                "N": 0.42,
+                "P": 0.27,
+                "K": 0.17
+            }
+        },
+        "weather_data": {
+            "temperature": 24.7,
+            "humidity": 42.6,
+            "rain_forecast": 3.4
+        },
+        "image_data": {
+            "ndvi_index": 0.56,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2139.36,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 23.9,
+            "soil_temperature": 23.8,
+            "soil_nutrients": {
+                "N": 0.13,
+                "P": 0.15,
+                "K": 0.15
+            }
+        },
+        "weather_data": {
+            "temperature": 24.7,
+            "humidity": 42.6,
+            "rain_forecast": 3.4
+        },
+        "image_data": {
+            "ndvi_index": 0.56,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2139.36,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 34.8,
+            "soil_temperature": 31.2,
+            "soil_nutrients": {
+                "N": 0.34,
+                "P": 0.19,
+                "K": 0.24
+            }
+        },
+        "weather_data": {
+            "temperature": 32.6,
+            "humidity": 46.5,
+            "rain_forecast": 14.1
+        },
+        "image_data": {
+            "ndvi_index": 0.72,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2511.7,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 11.9,
+            "soil_temperature": 38.4,
+            "soil_nutrients": {
+                "N": 0.12,
+                "P": 0.15,
+                "K": 0.12
+            }
+        },
+        "weather_data": {
+            "temperature": 32.6,
+            "humidity": 46.5,
+            "rain_forecast": 14.1
+        },
+        "image_data": {
+            "ndvi_index": 0.72,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2511.7,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 26.4,
+            "soil_temperature": 34.8,
+            "soil_nutrients": {
+                "N": 0.38,
+                "P": 0.17,
+                "K": 0.23
+            }
+        },
+        "weather_data": {
+            "temperature": 24.5,
+            "humidity": 87.8,
+            "rain_forecast": 16.8
+        },
+        "image_data": {
+            "ndvi_index": 0.6,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6002.37,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 26.9,
+            "soil_temperature": 28.7,
+            "soil_nutrients": {
+                "N": 0.28,
+                "P": 0.15,
+                "K": 0.2
+            }
+        },
+        "weather_data": {
+            "temperature": 24.5,
+            "humidity": 87.8,
+            "rain_forecast": 16.8
+        },
+        "image_data": {
+            "ndvi_index": 0.6,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6002.37,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 29.9,
+            "soil_temperature": 22.9,
+            "soil_nutrients": {
+                "N": 0.41,
+                "P": 0.15,
+                "K": 0.12
+            }
+        },
+        "weather_data": {
+            "temperature": 35.5,
+            "humidity": 57.8,
+            "rain_forecast": 2.6
+        },
+        "image_data": {
+            "ndvi_index": 0.49,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6462.52,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 34.6,
+            "soil_temperature": 24.3,
+            "soil_nutrients": {
+                "N": 0.21,
+                "P": 0.1,
+                "K": 0.38
+            }
+        },
+        "weather_data": {
+            "temperature": 35.5,
+            "humidity": 57.8,
+            "rain_forecast": 2.6
+        },
+        "image_data": {
+            "ndvi_index": 0.49,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6462.52,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 34.5,
+            "soil_temperature": 22.2,
+            "soil_nutrients": {
+                "N": 0.48,
+                "P": 0.06,
+                "K": 0.13
+            }
+        },
+        "weather_data": {
+            "temperature": 27.1,
+            "humidity": 60.2,
+            "rain_forecast": 16.1
+        },
+        "image_data": {
+            "ndvi_index": 0.92,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 372.88,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 16.0,
+            "soil_temperature": 20.7,
+            "soil_nutrients": {
+                "N": 0.23,
+                "P": 0.11,
+                "K": 0.33
+            }
+        },
+        "weather_data": {
+            "temperature": 27.1,
+            "humidity": 60.2,
+            "rain_forecast": 16.1
+        },
+        "image_data": {
+            "ndvi_index": 0.92,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 372.88,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 38.2,
+            "soil_temperature": 23.9,
+            "soil_nutrients": {
+                "N": 0.45,
+                "P": 0.26,
+                "K": 0.14
+            }
+        },
+        "weather_data": {
+            "temperature": 28.6,
+            "humidity": 86.4,
+            "rain_forecast": 8.6
+        },
+        "image_data": {
+            "ndvi_index": 0.73,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 347.98,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 30.8,
+            "soil_temperature": 36.4,
+            "soil_nutrients": {
+                "N": 0.43,
+                "P": 0.08,
+                "K": 0.18
+            }
+        },
+        "weather_data": {
+            "temperature": 28.6,
+            "humidity": 86.4,
+            "rain_forecast": 8.6
+        },
+        "image_data": {
+            "ndvi_index": 0.73,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 347.98,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 18.8,
+            "soil_temperature": 21.2,
+            "soil_nutrients": {
+                "N": 0.42,
+                "P": 0.17,
+                "K": 0.24
+            }
+        },
+        "weather_data": {
+            "temperature": 29.4,
+            "humidity": 56.1,
+            "rain_forecast": 14.9
+        },
+        "image_data": {
+            "ndvi_index": 0.83,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2432.31,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 30.7,
+            "soil_temperature": 22.4,
+            "soil_nutrients": {
+                "N": 0.27,
+                "P": 0.28,
+                "K": 0.11
+            }
+        },
+        "weather_data": {
+            "temperature": 29.4,
+            "humidity": 56.1,
+            "rain_forecast": 14.9
+        },
+        "image_data": {
+            "ndvi_index": 0.83,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2432.31,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 39.1,
+            "soil_temperature": 20.8,
+            "soil_nutrients": {
+                "N": 0.23,
+                "P": 0.05,
+                "K": 0.31
+            }
+        },
+        "weather_data": {
+            "temperature": 27.2,
+            "humidity": 75.9,
+            "rain_forecast": 19.9
+        },
+        "image_data": {
+            "ndvi_index": 0.67,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2141.16,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 38.4,
+            "soil_temperature": 37.3,
+            "soil_nutrients": {
+                "N": 0.33,
+                "P": 0.29,
+                "K": 0.11
+            }
+        },
+        "weather_data": {
+            "temperature": 27.2,
+            "humidity": 75.9,
+            "rain_forecast": 19.9
+        },
+        "image_data": {
+            "ndvi_index": 0.67,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2141.16,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 15.3,
+            "soil_temperature": 29.0,
+            "soil_nutrients": {
+                "N": 0.41,
+                "P": 0.3,
+                "K": 0.29
+            }
+        },
+        "weather_data": {
+            "temperature": 37.6,
+            "humidity": 64.9,
+            "rain_forecast": 6.1
+        },
+        "image_data": {
+            "ndvi_index": 0.69,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2720.01,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 38.8,
+            "soil_temperature": 27.6,
+            "soil_nutrients": {
+                "N": 0.25,
+                "P": 0.13,
+                "K": 0.21
+            }
+        },
+        "weather_data": {
+            "temperature": 37.6,
+            "humidity": 64.9,
+            "rain_forecast": 6.1
+        },
+        "image_data": {
+            "ndvi_index": 0.69,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2720.01,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 18.8,
+            "soil_temperature": 28.8,
+            "soil_nutrients": {
+                "N": 0.28,
+                "P": 0.13,
+                "K": 0.2
+            }
+        },
+        "weather_data": {
+            "temperature": 29.6,
+            "humidity": 40.4,
+            "rain_forecast": 11.7
+        },
+        "image_data": {
+            "ndvi_index": 0.5,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2033.46,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 31.3,
+            "soil_temperature": 27.7,
+            "soil_nutrients": {
+                "N": 0.45,
+                "P": 0.23,
+                "K": 0.39
+            }
+        },
+        "weather_data": {
+            "temperature": 29.6,
+            "humidity": 40.4,
+            "rain_forecast": 11.7
+        },
+        "image_data": {
+            "ndvi_index": 0.5,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2033.46,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 14.6,
+            "soil_temperature": 23.2,
+            "soil_nutrients": {
+                "N": 0.22,
+                "P": 0.3,
+                "K": 0.11
+            }
+        },
+        "weather_data": {
+            "temperature": 21.8,
+            "humidity": 56.2,
+            "rain_forecast": 9.5
+        },
+        "image_data": {
+            "ndvi_index": 0.75,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 5786.79,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 39.5,
+            "soil_temperature": 21.5,
+            "soil_nutrients": {
+                "N": 0.35,
+                "P": 0.17,
+                "K": 0.29
+            }
+        },
+        "weather_data": {
+            "temperature": 21.8,
+            "humidity": 56.2,
+            "rain_forecast": 9.5
+        },
+        "image_data": {
+            "ndvi_index": 0.75,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 5786.79,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 21.9,
+            "soil_temperature": 29.5,
+            "soil_nutrients": {
+                "N": 0.12,
+                "P": 0.27,
+                "K": 0.17
+            }
+        },
+        "weather_data": {
+            "temperature": 26.0,
+            "humidity": 55.2,
+            "rain_forecast": 3.3
+        },
+        "image_data": {
+            "ndvi_index": 0.76,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6460.5,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 22.0,
+            "soil_temperature": 22.1,
+            "soil_nutrients": {
+                "N": 0.23,
+                "P": 0.28,
+                "K": 0.3
+            }
+        },
+        "weather_data": {
+            "temperature": 26.0,
+            "humidity": 55.2,
+            "rain_forecast": 3.3
+        },
+        "image_data": {
+            "ndvi_index": 0.76,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6460.5,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 16.4,
+            "soil_temperature": 37.4,
+            "soil_nutrients": {
+                "N": 0.43,
+                "P": 0.26,
+                "K": 0.27
+            }
+        },
+        "weather_data": {
+            "temperature": 30.6,
+            "humidity": 52.7,
+            "rain_forecast": 18.4
+        },
+        "image_data": {
+            "ndvi_index": 0.85,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 383.72,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 34.7,
+            "soil_temperature": 27.4,
+            "soil_nutrients": {
+                "N": 0.21,
+                "P": 0.14,
+                "K": 0.32
+            }
+        },
+        "weather_data": {
+            "temperature": 30.6,
+            "humidity": 52.7,
+            "rain_forecast": 18.4
+        },
+        "image_data": {
+            "ndvi_index": 0.85,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 383.72,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 14.8,
+            "soil_temperature": 39.5,
+            "soil_nutrients": {
+                "N": 0.37,
+                "P": 0.2,
+                "K": 0.22
+            }
+        },
+        "weather_data": {
+            "temperature": 28.3,
+            "humidity": 59.3,
+            "rain_forecast": 2.2
+        },
+        "image_data": {
+            "ndvi_index": 0.77,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 333.86,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T07:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 27.9,
+            "soil_temperature": 39.6,
+            "soil_nutrients": {
+                "N": 0.33,
+                "P": 0.29,
+                "K": 0.21
+            }
+        },
+        "weather_data": {
+            "temperature": 28.3,
+            "humidity": 59.3,
+            "rain_forecast": 2.2
+        },
+        "image_data": {
+            "ndvi_index": 0.77,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 333.86,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 16.0,
+            "soil_temperature": 39.6,
+            "soil_nutrients": {
+                "N": 0.2,
+                "P": 0.24,
+                "K": 0.2
+            }
+        },
+        "weather_data": {
+            "temperature": 39.8,
+            "humidity": 46.6,
+            "rain_forecast": 15.4
+        },
+        "image_data": {
+            "ndvi_index": 0.73,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2347.35,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 20.8,
+            "soil_temperature": 34.8,
+            "soil_nutrients": {
+                "N": 0.44,
+                "P": 0.08,
+                "K": 0.23
+            }
+        },
+        "weather_data": {
+            "temperature": 39.8,
+            "humidity": 46.6,
+            "rain_forecast": 15.4
+        },
+        "image_data": {
+            "ndvi_index": 0.73,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2347.35,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 27.1,
+            "soil_temperature": 34.9,
+            "soil_nutrients": {
+                "N": 0.22,
+                "P": 0.19,
+                "K": 0.1
+            }
+        },
+        "weather_data": {
+            "temperature": 28.7,
+            "humidity": 84.9,
+            "rain_forecast": 17.4
+        },
+        "image_data": {
+            "ndvi_index": 0.64,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2148.2,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 15.2,
+            "soil_temperature": 33.8,
+            "soil_nutrients": {
+                "N": 0.43,
+                "P": 0.08,
+                "K": 0.37
+            }
+        },
+        "weather_data": {
+            "temperature": 28.7,
+            "humidity": 84.9,
+            "rain_forecast": 17.4
+        },
+        "image_data": {
+            "ndvi_index": 0.64,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2148.2,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 11.8,
+            "soil_temperature": 27.8,
+            "soil_nutrients": {
+                "N": 0.34,
+                "P": 0.05,
+                "K": 0.19
+            }
+        },
+        "weather_data": {
+            "temperature": 26.5,
+            "humidity": 53.0,
+            "rain_forecast": 14.5
+        },
+        "image_data": {
+            "ndvi_index": 0.64,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2663.86,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 29.9,
+            "soil_temperature": 38.2,
+            "soil_nutrients": {
+                "N": 0.3,
+                "P": 0.16,
+                "K": 0.36
+            }
+        },
+        "weather_data": {
+            "temperature": 26.5,
+            "humidity": 53.0,
+            "rain_forecast": 14.5
+        },
+        "image_data": {
+            "ndvi_index": 0.64,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2663.86,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 25.2,
+            "soil_temperature": 36.8,
+            "soil_nutrients": {
+                "N": 0.19,
+                "P": 0.28,
+                "K": 0.15
+            }
+        },
+        "weather_data": {
+            "temperature": 23.3,
+            "humidity": 78.5,
+            "rain_forecast": 5.4
+        },
+        "image_data": {
+            "ndvi_index": 0.55,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2454.67,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 26.7,
+            "soil_temperature": 29.5,
+            "soil_nutrients": {
+                "N": 0.41,
+                "P": 0.27,
+                "K": 0.12
+            }
+        },
+        "weather_data": {
+            "temperature": 23.3,
+            "humidity": 78.5,
+            "rain_forecast": 5.4
+        },
+        "image_data": {
+            "ndvi_index": 0.55,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2454.67,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 36.2,
+            "soil_temperature": 36.6,
+            "soil_nutrients": {
+                "N": 0.29,
+                "P": 0.26,
+                "K": 0.29
+            }
+        },
+        "weather_data": {
+            "temperature": 26.6,
+            "humidity": 62.1,
+            "rain_forecast": 15.9
+        },
+        "image_data": {
+            "ndvi_index": 0.45,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6818.5,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 14.5,
+            "soil_temperature": 37.8,
+            "soil_nutrients": {
+                "N": 0.17,
+                "P": 0.29,
+                "K": 0.31
+            }
+        },
+        "weather_data": {
+            "temperature": 26.6,
+            "humidity": 62.1,
+            "rain_forecast": 15.9
+        },
+        "image_data": {
+            "ndvi_index": 0.45,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6818.5,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 33.7,
+            "soil_temperature": 32.9,
+            "soil_nutrients": {
+                "N": 0.38,
+                "P": 0.07,
+                "K": 0.16
+            }
+        },
+        "weather_data": {
+            "temperature": 26.7,
+            "humidity": 55.2,
+            "rain_forecast": 17.0
+        },
+        "image_data": {
+            "ndvi_index": 0.74,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6765.47,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 21.5,
+            "soil_temperature": 33.7,
+            "soil_nutrients": {
+                "N": 0.17,
+                "P": 0.13,
+                "K": 0.38
+            }
+        },
+        "weather_data": {
+            "temperature": 26.7,
+            "humidity": 55.2,
+            "rain_forecast": 17.0
+        },
+        "image_data": {
+            "ndvi_index": 0.74,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6765.47,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 26.5,
+            "soil_temperature": 35.0,
+            "soil_nutrients": {
+                "N": 0.49,
+                "P": 0.08,
+                "K": 0.28
+            }
+        },
+        "weather_data": {
+            "temperature": 24.7,
+            "humidity": 61.5,
+            "rain_forecast": 19.1
+        },
+        "image_data": {
+            "ndvi_index": 0.73,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 344.57,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 15.4,
+            "soil_temperature": 34.3,
+            "soil_nutrients": {
+                "N": 0.39,
+                "P": 0.13,
+                "K": 0.35
+            }
+        },
+        "weather_data": {
+            "temperature": 24.7,
+            "humidity": 61.5,
+            "rain_forecast": 19.1
+        },
+        "image_data": {
+            "ndvi_index": 0.73,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 344.57,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 19.1,
+            "soil_temperature": 20.8,
+            "soil_nutrients": {
+                "N": 0.23,
+                "P": 0.1,
+                "K": 0.24
+            }
+        },
+        "weather_data": {
+            "temperature": 29.0,
+            "humidity": 46.3,
+            "rain_forecast": 18.4
+        },
+        "image_data": {
+            "ndvi_index": 0.76,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 340.58,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T09:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 34.0,
+            "soil_temperature": 28.4,
+            "soil_nutrients": {
+                "N": 0.16,
+                "P": 0.17,
+                "K": 0.22
+            }
+        },
+        "weather_data": {
+            "temperature": 29.0,
+            "humidity": 46.3,
+            "rain_forecast": 18.4
+        },
+        "image_data": {
+            "ndvi_index": 0.76,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 340.58,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 18.7,
+            "soil_temperature": 22.9,
+            "soil_nutrients": {
+                "N": 0.25,
+                "P": 0.14,
+                "K": 0.32
+            }
+        },
+        "weather_data": {
+            "temperature": 34.8,
+            "humidity": 51.5,
+            "rain_forecast": 15.1
+        },
+        "image_data": {
+            "ndvi_index": 0.88,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2240.86,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "R001",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 24.4,
+            "soil_temperature": 26.1,
+            "soil_nutrients": {
+                "N": 0.41,
+                "P": 0.08,
+                "K": 0.27
+            }
+        },
+        "weather_data": {
+            "temperature": 34.8,
+            "humidity": 51.5,
+            "rain_forecast": 15.1
+        },
+        "image_data": {
+            "ndvi_index": 0.88,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2240.86,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 34.3,
+            "soil_temperature": 22.9,
+            "soil_nutrients": {
+                "N": 0.48,
+                "P": 0.18,
+                "K": 0.16
+            }
+        },
+        "weather_data": {
+            "temperature": 29.1,
+            "humidity": 53.7,
+            "rain_forecast": 15.9
+        },
+        "image_data": {
+            "ndvi_index": 0.68,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2463.27,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "R002",
+        "crop": "Rice",
+        "sensor_data": {
+            "soil_moisture": 36.8,
+            "soil_temperature": 26.3,
+            "soil_nutrients": {
+                "N": 0.24,
+                "P": 0.15,
+                "K": 0.27
+            }
+        },
+        "weather_data": {
+            "temperature": 29.1,
+            "humidity": 53.7,
+            "rain_forecast": 15.9
+        },
+        "image_data": {
+            "ndvi_index": 0.68,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2463.27,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 30.7,
+            "soil_temperature": 22.7,
+            "soil_nutrients": {
+                "N": 0.19,
+                "P": 0.08,
+                "K": 0.12
+            }
+        },
+        "weather_data": {
+            "temperature": 26.7,
+            "humidity": 42.1,
+            "rain_forecast": 10.5
+        },
+        "image_data": {
+            "ndvi_index": 0.74,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2312.56,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "W001",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 20.1,
+            "soil_temperature": 29.2,
+            "soil_nutrients": {
+                "N": 0.17,
+                "P": 0.12,
+                "K": 0.39
+            }
+        },
+        "weather_data": {
+            "temperature": 26.7,
+            "humidity": 42.1,
+            "rain_forecast": 10.5
+        },
+        "image_data": {
+            "ndvi_index": 0.74,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2312.56,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 29.2,
+            "soil_temperature": 26.5,
+            "soil_nutrients": {
+                "N": 0.43,
+                "P": 0.16,
+                "K": 0.35
+            }
+        },
+        "weather_data": {
+            "temperature": 27.3,
+            "humidity": 41.3,
+            "rain_forecast": 17.6
+        },
+        "image_data": {
+            "ndvi_index": 0.65,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2142.67,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "W002",
+        "crop": "Wheat",
+        "sensor_data": {
+            "soil_moisture": 15.9,
+            "soil_temperature": 39.0,
+            "soil_nutrients": {
+                "N": 0.38,
+                "P": 0.25,
+                "K": 0.34
+            }
+        },
+        "weather_data": {
+            "temperature": 27.3,
+            "humidity": 41.3,
+            "rain_forecast": 17.6
+        },
+        "image_data": {
+            "ndvi_index": 0.65,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 2142.67,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 18.0,
+            "soil_temperature": 23.8,
+            "soil_nutrients": {
+                "N": 0.23,
+                "P": 0.22,
+                "K": 0.29
+            }
+        },
+        "weather_data": {
+            "temperature": 24.1,
+            "humidity": 77.2,
+            "rain_forecast": 18.9
+        },
+        "image_data": {
+            "ndvi_index": 0.57,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 7241.77,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "C001",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 33.7,
+            "soil_temperature": 26.8,
+            "soil_nutrients": {
+                "N": 0.36,
+                "P": 0.21,
+                "K": 0.18
+            }
+        },
+        "weather_data": {
+            "temperature": 24.1,
+            "humidity": 77.2,
+            "rain_forecast": 18.9
+        },
+        "image_data": {
+            "ndvi_index": 0.57,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 7241.77,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 13.5,
+            "soil_temperature": 21.7,
+            "soil_nutrients": {
+                "N": 0.43,
+                "P": 0.21,
+                "K": 0.39
+            }
+        },
+        "weather_data": {
+            "temperature": 35.1,
+            "humidity": 80.3,
+            "rain_forecast": 6.8
+        },
+        "image_data": {
+            "ndvi_index": 0.56,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6775.62,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "C002",
+        "crop": "Cotton",
+        "sensor_data": {
+            "soil_moisture": 32.2,
+            "soil_temperature": 34.7,
+            "soil_nutrients": {
+                "N": 0.4,
+                "P": 0.07,
+                "K": 0.27
+            }
+        },
+        "weather_data": {
+            "temperature": 35.1,
+            "humidity": 80.3,
+            "rain_forecast": 6.8
+        },
+        "image_data": {
+            "ndvi_index": 0.56,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 6775.62,
+            "market_trend": "down"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 27.1,
+            "soil_temperature": 33.1,
+            "soil_nutrients": {
+                "N": 0.26,
+                "P": 0.08,
+                "K": 0.26
+            }
+        },
+        "weather_data": {
+            "temperature": 36.6,
+            "humidity": 81.9,
+            "rain_forecast": 17.8
+        },
+        "image_data": {
+            "ndvi_index": 0.76,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 369.62,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "SC001",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 34.8,
+            "soil_temperature": 31.0,
+            "soil_nutrients": {
+                "N": 0.45,
+                "P": 0.08,
+                "K": 0.13
+            }
+        },
+        "weather_data": {
+            "temperature": 36.6,
+            "humidity": 81.9,
+            "rain_forecast": 17.8
+        },
+        "image_data": {
+            "ndvi_index": 0.76,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 369.62,
+            "market_trend": "stable"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 20.6,
+            "soil_temperature": 32.0,
+            "soil_nutrients": {
+                "N": 0.15,
+                "P": 0.16,
+                "K": 0.38
+            }
+        },
+        "weather_data": {
+            "temperature": 34.8,
+            "humidity": 42.2,
+            "rain_forecast": 17.0
+        },
+        "image_data": {
+            "ndvi_index": 0.8,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 324.75,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    },
+    {
+        "timestamp": "2026-04-08T10:00:00",
+        "field_id": "SC002",
+        "crop": "Sugarcane",
+        "sensor_data": {
+            "soil_moisture": 11.9,
+            "soil_temperature": 26.7,
+            "soil_nutrients": {
+                "N": 0.21,
+                "P": 0.12,
+                "K": 0.17
+            }
+        },
+        "weather_data": {
+            "temperature": 34.8,
+            "humidity": 42.2,
+            "rain_forecast": 17.0
+        },
+        "image_data": {
+            "ndvi_index": 0.8,
+            "image_source": "simulated_satellite"
+        },
+        "market_data": {
+            "market_price": 324.75,
+            "market_trend": "up"
+        },
+        "meta": {
+            "data_sources": {
+                "sensor": true,
+                "weather": true,
+                "image": true,
+                "market": true
+            },
+            "version": "1.0",
+            "time_window": "hourly",
+            "synchronized": true
+        },
+        "reliability_score": 1.0,
+        "validation": {
+            "is_valid": true,
+            "issues": [
+                "LLM validation skipped"
+            ],
+            "suggestions": []
+        }
+    }
+]
