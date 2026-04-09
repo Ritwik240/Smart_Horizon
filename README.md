@@ -1,6 +1,3 @@
-Here is your **clean, organized, professional GitHub README (with proper structure + architecture diagram using your exact agent names)** — ready to copy-paste.
-
----
 
 # 🌱 Agri Agent System (Agentic AI for Smart Farming)
 
