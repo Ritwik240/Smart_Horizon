@@ -829,7 +829,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### 📅 Version History
 - **v1.0** - Initial release with 3 agents and chatbot
 - **v1.1** - Added disease detection models
-- **v2.0** - Mobile app launch (Q3 2026)
+
 
 ---
 
