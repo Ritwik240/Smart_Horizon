@@ -43,7 +43,7 @@
 
 ## 🏗️ Architecture
 
-The system follows a **modular, event-driven architecture** with four main components:
+The system follows a **modular, event-driven architecture** with five specialized agents and a conversational interface:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -57,18 +57,24 @@ The system follows a **modular, event-driven architecture** with four main compo
 │            /run-agent  /chat  /analyze  endpoints            │
 └────────────────────┬────────────────────────────────────────┘
                      │
-        ┌────────────┼────────────┬──────────────┐
-        ▼            ▼            ▼              ▼
-    ┌────────┐  ┌────────┐  ┌────────┐  ┌──────────┐
-    │ Agent1 │  │ Agent2 │  │ Agent3 │  │ Chatbot  │
-    │        │  │        │  │        │  │ (Ollama) │
-    └────────┘  └────────┘  └────────┘  └──────────┘
-        │            │            │
-        ▼            ▼            ▼
-   ┌──────────────────────────────────┐
-   │    Data & Memory Storage         │
-   │  (JSON, MongoDB, TimeSeries)     │
-   └──────────────────────────────────┘
+        ┌────────────┼────────────┼──────────────┼──────────────┐
+        ▼            ▼            ▼              ▼              ▼
+    ┌────────┐  ┌────────┐  ┌────────┐  ┌────────┐   ┌──────────┐
+    │ Agent1 │  │ Agent2 │  │ Agent3 │  │ Agent4 │   │ Agent5   │
+    │        │  │        │  │        │  │        │   │          │
+    └────────┘  └────────┘  └────────┘  └────────┘   └──────────┘
+                                │
+                                ▼
+                           ┌───────────┐
+                           │ Chatbot   │
+                           │ (Ollama)  │
+                           └───────────┘
+                                │
+                                ▼
+                   ┌──────────────────────────────────┐
+                   │    Data & Memory Storage         │
+                   │  (JSON, MongoDB, TimeSeries)     │
+                   └──────────────────────────────────┘
 ```
 
 ---
@@ -168,52 +174,44 @@ Rice Leaf Disease Classification:
 
 ---
 
-### **Agent 3: Intelligent Planning & Execution**
-`🧠 Advanced Decision Making System`
+### **Agent 3: True Agentic Decision Engine**
+`🧠 Core Planning & Strategy Agent`
 
-**Purpose:** Makes autonomous decisions, plans interventions, and executes farm management strategies.
+**Purpose:** Produces autonomous farming strategies, optimizes resource allocation, and creates actionable plans.
 
-**Components:**
+**Capabilities:**
+- 🧠 LLM-driven decision-making
+- 📋 Strategy selection for cost, yield, and risk
+- 💰 Budget planning and water usage forecasting
+- ⚖️ Priority balancing between yield and sustainability
+- 🔁 Integration with execution and monitoring agents
 
-#### **🧠 Memory Agent**
-- Maintains historical field data
-- Learns from past decisions
-- Provides context-aware recommendations
+---
 
-#### **🎯 Planner Agent**
-- Generates farm management plans
-- Schedules interventions (irrigation, fertilizer, pest control)
-- Optimizes resource allocation
-- Adapts plans based on feedback
+### **Agent 4: Intelligent Monitoring & LLM Core**
+`📡 System Health & Risk Monitoring`
 
-#### **⚡ Executor Agent**
-- Executes planned interventions
-- Manages farm equipment & systems
-- Monitors execution progress
-- Reports results
+**Purpose:** Continuously monitors farm conditions, evaluates risks, and provides intelligent feedback using LLM analysis.
 
-#### **📡 Monitoring Agent**
-- Real-time system health monitoring
-- Tracks performance metrics
-- Collects feedback on recommendations
-- Triggers re-planning if needed
+**Responsibilities:**
+- 🔍 Assess sensor and weather data
+- 🚨 Detect water stress, heat stress, and environmental risks
+- 📈 Track trend performance over time
+- 🧠 Generate practical monitoring recommendations
+- 🔄 Escalate or adjust plans when needed
 
-**Tools Available:**
-```
-tools/
-├── environment.py      # Environmental data retrieval
-├── weather.py          # Weather forecasting
-├── irrigation.py       # Irrigation scheduling
-├── fertilizer.py       # Nutrient management
-└── pest.py             # Pest control strategies
-```
+---
 
-**Agent Tools & Capabilities:**
-- 💧 Irrigation optimization (volume, timing, frequency)
-- 🥗 Fertilizer recommendations (NPK balance)
-- 🐛 Pest & disease management (preventive & curative)
-- 📅 Crop calendar planning
-- 🌱 Seed selection & planting schedule
+### **Agent 5: Memory & Learning Agent**
+`🧠 Adaptive Memory System`
+
+**Purpose:** Stores historical runs, learns from past performance, and improves future recommendations.
+
+**Capabilities:**
+- 💾 Save the last 50 system runs as memory
+- 📚 Learn from historical patterns using Ollama
+- 💡 Generate optimization insights and improvement suggestions
+- 🔄 Feed learning back into the planning pipeline
 
 ---
 
@@ -827,7 +825,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - [ ] Government subsidy recommendation engine
 
 ### 📅 Version History
-- **v1.0** - Initial release with 3 agents and chatbot
+- **v1.0** - Initial release with 5 agents and chatbot
 - **v1.1** - Added disease detection models
 
 
