@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Verdant Intelligence – Landscape Orchestration Report</title>
+  <link rel="stylesheet" href="dashboard2.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+</head>
+<body>
+
+<!-- TOP NAV -->
+<header class="topnav">
+  <div class="topnav-left">
+    <span class="brand">Verdant Intelligence</span>
+    <nav class="top-tabs">
+      <a href="index.html" class="tab">Dashboard</a>
+      <a href="#" class="tab active">Orchestration</a>
+      <a href="#" class="tab">Agents</a>
+      <a href="#" class="tab">Archive</a>
+    </nav>
+  </div>
+  <div class="topnav-right">
+    <button class="btn-outline">Export JSON</button>
+    <button class="btn-filled">Export PDF</button>
+    <span class="icon-btn">🔔</span>
+    <span class="icon-btn">⚙️</span>
+    <span class="avatar">👤</span>
+  </div>
+</header>
+
+<div class="layout">
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sidebar-brand">
+      <div class="brand-icon-wrap">
+        <span class="brand-icon">📡</span>
+      </div>
+      <div>
+        <div class="brand-name">SYSTEM HEALTH</div>
+        <div class="brand-sub">Optimal Performance</div>
+      </div>
+    </div>
+    <nav class="sidebar-nav">
+      <a href="#" class="nav-item"><span class="nav-icon">📡</span> Data Collection</a>
+      <a href="#" class="nav-item"><span class="nav-icon">📊</span> Analysis</a>
+      <a href="#" class="nav-item active"><span class="nav-icon">✅</span> Verdict</a>
+      <a href="#" class="nav-item"><span class="nav-icon">👁️</span> Monitoring</a>
+      <a href="#" class="nav-item"><span class="nav-icon">💾</span> Memory</a>
+    </nav>
+    <div class="sidebar-bottom">
+      <button class="new-analysis-btn">+ New Analysis</button>
+      <a href="#" class="nav-item"><span class="nav-icon">❓</span> Help Center</a>
+      <a href="#" class="nav-item logout"><span class="nav-icon">↗️</span> Log Out</a>
+    </div>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="main">
+
+    <!-- REPORT HEADER -->
+    <div class="report-header">
+      <div class="report-header-left">
+        <h1 class="report-title">Landscape Orchestration Report</h1>
+        <div class="report-meta">Session ID: #AFO-8402-DELTA &bull; Last Updated <span id="lastUpdated">2m ago</span></div>
+      </div>
+      <div class="status-badge">
+        <div class="status-icon-wrap">✅</div>
+        <div>
+          <div class="status-label">SYSTEM STATUS</div>
+          <div class="status-value">OPTIMAL</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- KPI ROW -->
+    <div class="kpi-row">
+      <div class="kpi-card">
+        <div class="kpi-label">OVERALL SUCCESS</div>
+        <div class="kpi-value green">92%</div>
+        <div class="kpi-sub"><span class="kpi-dot green-dot"></span> High Confidence</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">YIELD INCREASE</div>
+        <div class="kpi-value gold">+18.4%</div>
+        <div class="kpi-sub">↗ vs 5-year Avg</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">RISK LEVEL</div>
+        <div class="kpi-value blue">MILD</div>
+        <div class="kpi-sub"><span class="kpi-dot blue-dot"></span> No Critical Threats</div>
+      </div>
+    </div>
+
+    <!-- ACTION PLAN -->
+    <div class="section-title">
+      <span class="section-line"></span> Immediate Action Plan
+    </div>
+    <div class="action-row">
+      <div class="action-card">
+        <div class="action-top">
+          <div class="action-label irrigation">💧 IRRIGATION</div>
+          <span class="action-tag queued">QUEUED</span>
+        </div>
+        <div class="action-name">Scheduled Pulse</div>
+        <div class="action-meta" id="action-meta-0">TARGET TIME &nbsp; <strong>04:00 AM</strong></div>
+      </div>
+      <div class="action-card">
+        <div class="action-top">
+          <div class="action-label fertilization">🌿 FERTILIZATION</div>
+          <span class="action-tag high-block">High (Block 07)</span>
+        </div>
+        <div class="action-name">Potassium Mix</div>
+        <div class="action-meta">PRIORITY &nbsp; <strong>High</strong></div>
+      </div>
+      <div class="action-card">
+        <div class="action-top">
+          <div class="action-label pesticide">⚙️ PESTICIDE</div>
+          <span class="action-tag suppressed">Suppressed</span>
+        </div>
+        <div class="action-name">No Action</div>
+        <div class="action-meta">STATUS &nbsp; <strong>Suppressed</strong></div>
+      </div>
+    </div>
+
+    <!-- AGENT REASONING -->
+    <div class="reasoning-bar">
+      <span class="reasoning-icon">🛡️</span>
+      <span>
+        <strong>Agent 3 Reasoning:</strong> The irrigation window is selected to minimize evaporative loss.
+        Potassium is triggered by the nutrient demand ahead of the forecasted heat spike in 48 hours.
+      </span>
+    </div>
+
+    <!-- AGENT DATA ROW -->
+    <div class="agent-data-row">
+
+      <!-- Agent 1: Current Environment -->
+      <div class="card agent-env">
+        <div class="agent-card-header">
+          <span class="agent-tag">📡 AGENT 1: CURRENT ENVIRONMENT</span>
+          <span class="live-tag">LIVE</span>
+        </div>
+        <div class="env-grid">
+          <div class="env-cell">
+            <div class="env-label">SOIL MOISTURE</div>
+            <div class="env-value">42%</div>
+          </div>
+          <div class="env-cell">
+            <div class="env-label">TEMPERATURE</div>
+            <div class="env-value">28°C</div>
+          </div>
+          <div class="env-cell">
+            <div class="env-label">HUMIDITY</div>
+            <div class="env-value">65%</div>
+          </div>
+          <div class="env-cell">
+            <div class="env-label">RELIABILITY</div>
+            <div class="env-value small-green">✅ 9.8/10</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Agent 2: Risk Intelligence -->
+      <div class="card agent-risk">
+        <div class="agent-card-header">
+          <span class="agent-tag">📈 AGENT 2: RISK INTELLIGENCE</span>
+        </div>
+        <div class="risk-legend">
+          <span><span class="risk-dot water-dot"></span> Water</span>
+          <span><span class="risk-dot heat-dot"></span> Heat</span>
+        </div>
+        <canvas id="riskChart" width="240" height="90"></canvas>
+        <div class="risk-time-labels">
+          <span>00:00</span><span>12:00</span><span>23:59</span>
+        </div>
+      </div>
+
+      <!-- Agent 4: Performance Trend -->
+      <div class="card agent-perf">
+        <div class="agent-card-header">
+          <span class="agent-tag">📊 AGENT 4: PERFORMANCE TREND</span>
+          <span class="growth-tag">+4.2% Growth</span>
+        </div>
+        <canvas id="perfChart" width="200" height="90"></canvas>
+        <div class="perf-labels">
+          <span>DAY 1</span><span>DAY 2</span><span>DAY 3</span>
+          <span>DAY 4</span><span>DAY 5</span><span class="today-lbl">TODAY</span>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- FUTURE STRATEGY -->
+    <div class="future-card">
+      <div class="future-left">
+        <div class="future-icon">🌱</div>
+        <div>
+          <div class="future-title">Future Strategy</div>
+          <div class="future-desc">
+            Based on long-term memory patterns from the 2019 harvest, Agent 5 suggests
+            a preventative shift for the upcoming cycle.
+          </div>
+        </div>
+      </div>
+      <div class="future-right">
+        <div class="future-rec-label">RECOMMENDED LONG TERM IMPROVEMENT</div>
+        <div class="future-rec-title">Crop Rotation in Sector 4</div>
+        <div class="future-rec-desc">Predicted to improve soil moisture retention by 27% over 24 months.</div>
+        <div class="future-actions">
+          <button class="apply-btn" id="applyBtn">Apply Strategy</button>
+          <button class="dismiss-btn" id="dismissBtn">Dismiss</button>
+        </div>
+      </div>
+    </div>
+
+  </main>
+</div>
+
+<script src="dashboard2.js"></script>
+</body>
+</html>
