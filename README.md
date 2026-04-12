@@ -46,35 +46,8 @@
 The system follows a **modular, event-driven architecture** with five specialized agents and a conversational interface:
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                     Frontend Dashboard                       │
-│              (HTML/CSS/JavaScript Interface)                │
-└────────────────────┬────────────────────────────────────────┘
-                     │
-                     ▼
-┌─────────────────────────────────────────────────────────────┐
-│                    API Server (FastAPI)                      │
-│            /run-agent  /chat  /analyze  endpoints            │
-└────────────────────┬────────────────────────────────────────┘
-                     │
-        ┌────────────┼────────────┼──────────────┼──────────────┐
-        ▼            ▼            ▼              ▼              ▼
-    ┌────────┐  ┌────────┐  ┌────────┐  ┌────────┐   ┌──────────┐
-    │ Agent1 │  │ Agent2 │  │ Agent3 │  │ Agent4 │   │ Agent5   │
-    │        │  │        │  │        │  │        │   │          │
-    └────────┘  └────────┘  └────────┘  └────────┘   └──────────┘
-                                │
-                                ▼
-                           ┌───────────┐
-                           │ Chatbot   │
-                           │ (Ollama)  │
-                           └───────────┘
-                                │
-                                ▼
-                   ┌──────────────────────────────────┐
-                   │    Data & Memory Storage         │
-                   │  (JSON, MongoDB, TimeSeries)     │
-                   └──────────────────────────────────┘
+<img width="1440" height="1186" alt="image" src="https://github.com/user-attachments/assets/d3845e85-e74c-451f-8aa9-9e916df4f57d" />
+
 ```
 
 ---
