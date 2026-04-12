@@ -46,7 +46,40 @@
 The system follows a **modular, event-driven architecture** with five specialized agents and a conversational interface:
 
 ```
-<img width="1440" height="1186" alt="image" src="https://github.com/user-attachments/assets/d3845e85-e74c-451f-8aa9-9e916df4f57d" />
+```id="6x2mzp"
++-------------------------------------------------------------+
+|                    Frontend Dashboard                       |
+|          (HTML/CSS/JavaScript Interface)                    |
++-------------------------------------------------------------+
+                             |
+                             v
++-------------------------------------------------------------+
+|                    API Server (FastAPI)                     |
+|         /run-agent   /chat   /analyze endpoints             |
++-------------------------------------------------------------+
+                             |
+        ------------------------------------------------------------------
+        |        |        |        |        |           |                |
+        v        v        v        v        v           v                v
+     +--------+ +--------+ +--------+ +--------+ +--------+  +----------------------+
+     | Agent1 | | Agent2 | | Agent3 | | Agent4 | | Agent5 |  |  Chatbot (Ollama)   |
+     +--------+ +--------+ +--------+ +--------+ +--------+  +----------------------+
+
+        \         \         |         /         /           
+         \         \        |        /         /           
+          \         \       |       /         /           
+           \         \      |      /         /           
+            \         \     |     /         /           
+             --------------------------------
+                             |
+                             v
+              +---------------------------------------------+
+              |        Data & Memory Storage                |
+              |     (JSON, MongoDB, TimeSeries)            |
+              +---------------------------------------------+
+```
+
+
 
 ```
 
@@ -258,7 +291,7 @@ Rice Leaf Disease Classification:
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/Vansh-Thakur-Sadyal/Agentic-AI-Farm-Intelligence-System.git
+
 cd Agentic-AI-Farm-Intelligence-System
 ```
 
