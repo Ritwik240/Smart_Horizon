@@ -754,28 +754,6 @@ git push origin feature/amazing-feature
 
 ---
 
-## 📝 Code of Conduct
-
-This project adheres to the [Contributor Covenant](CODE_OF_CONDUCT.md). By participating, you agree to uphold this code.
-
----
-
-## 🐛 Bug Reports & Feature Requests
-
-- **Report Bugs:** [GitHub Issues](https://github.com/Vansh-Thakur-Sadyal/Agentic-AI-Farm-Intelligence-System/issues)
-- **Feature Requests:** [GitHub Discussions](https://github.com/Vansh-Thakur-Sadyal/Agentic-AI-Farm-Intelligence-System/discussions)
-
----
-
-## 📞 Support & Contact
-
-- 📧 **Email:** support@farmaintelligence.com
-- 🐦 **Twitter:** [@FarmAI](https://twitter.com)
-- 💬 **Discord:** [Join Community](https://discord.gg)
-- 📖 **Documentation:** [Full Docs](https://docs.farmaintelligence.com)
-
----
-
 ## 📚 Additional Resources
 
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
@@ -811,31 +789,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🎯 Roadmap
-
-### 🔜 Upcoming Features
-- [ ] Mobile app (React Native)
-- [ ] Drone integration with real-time imagery
-- [ ] Advanced AR features for field visualization
-- [ ] Multi-language chatbot support
-- [ ] Blockchain for supply chain tracking
-- [ ] IoT device marketplace
-- [ ] Advanced predictive analytics
-- [ ] Integration with agricultural markets
-- [ ] Government subsidy recommendation engine
-
 ### 📅 Version History
 - **v1.0** - Initial release with 5 agents and chatbot
 - **v1.1** - Added disease detection models
 
-
----
-
-## 🌟 Star ⭐ & Follow us!
-
-If you find this project helpful, please consider giving us a star and sharing with your network!
-
-[![GitHub Stars](https://img.shields.io/github/stars/Vansh-Thakur-Sadyal/Agentic-AI-Farm-Intelligence-System?style=social)](https://github.com/Vansh-Thakur-Sadyal/Agentic-AI-Farm-Intelligence-System)
 
 ---
 
