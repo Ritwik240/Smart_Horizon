@@ -766,7 +766,7 @@ git push origin feature/amazing-feature
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** 
 
 ### You are free to:
 - ✅ Use the software for any purpose
